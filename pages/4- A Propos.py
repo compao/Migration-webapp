@@ -1,0 +1,12 @@
+import streamlit as st
+st.header("À propos de cette Application")
+st.write("""
+Cette application web représente un élément essentiel de mon mémoire de fin de cycle en data science, axé sur la prédiction des flux migratoires interprovinciaux, de l'émigration et de l'immigration. Au cours de mon parcours académique, j'ai eu l'opportunité de plonger au cœur de la data science, et cette application incarne le point culminant de mes connaissances et de mes découvertes dans ce domaine.
+Mon intérêt pour la data science a toujours été guidé par la fascination pour le potentiel des données à révéler des tendances et des schémas essentiels. Au fil de mes études, j'ai acquis des compétences avancées en matière de modélisation prédictive, d'analyse de données et de visualisation, compétences que j'ai mises en pratique pour développer cette application.
+Cette application va bien au-delà d'un simple projet académique. Elle incarne ma conviction profonde en l'importance de la data science pour comprendre et prédire les mouvements migratoires, un domaine d'étude crucial pour de nombreuses disciplines. Elle démontre également mon engagement à rendre la data science accessible à un large public, en proposant une interface intuitive pour explorer et interagir avec les prédictions de migration.
+Je tiens à exprimer ma sincère gratitude envers mes enseignants, mes collègues et ma famille pour leur soutien inestimable tout au long de mon parcours. Leurs conseils précieux et leur encouragement m'ont permis de développer cette application et de la présenter dans le cadre de mon mémoire de fin de cycle.
+Au-delà de son rôle dans mon mémoire, cette application est une contribution à la communauté de la data science et à la compréhension des migrations interprovinciales. J'espère qu'elle sera un outil utile pour ceux qui souhaitent explorer et analyser les mouvements de population de manière plus informée et interactive.
+Je vous souhaite une expérience fructueuse avec cette application et je reste ouvert à vos commentaires et suggestions pour son amélioration continue. Merci de partager cette étape cruciale de mon parcours académique en data science.""")
+
+st.write("Etudiant: Abdoul Rachid COMPAORE")
+st.write("Enseignant: Dr Mahamadou BELEM")
